@@ -18,7 +18,7 @@ Project id: JIS001
 
 FRAMEWORK : SCROLL FRAMEWORK
 
-Duration  of  Project : 2014  to  2017
+Duration  of  Project : JAN 2014  to  2017
 
 
 
